@@ -1,0 +1,4 @@
+.gitattributes
+/UCSDUnfoldingMaps/out/**
+/UCSDUnfoldingMaps/build/**
+/UCSDUnfoldingMaps/.idea/**
